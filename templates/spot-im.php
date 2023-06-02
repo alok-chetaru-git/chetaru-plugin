@@ -1,0 +1,1 @@
+<script async="" src="https://launcher.spot.im/spot/<?php echo ch_get_plugin_option('spot_id'); ?>" data-spotim-module="spotim-launcher" data-post-url="<?php echo esc_attr( get_permalink() ); ?>" data-post-id="<?php echo esc_attr( get_the_ID() ); ?>"></script>
